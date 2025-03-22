@@ -1,0 +1,24 @@
+state,crop_name,rainfall,temperature,wind_speed,humidity,sunlight,yield 
+Maharashtra,Wheat,100,25,5,60,8,300  
+Punjab,Rice,80,20,3,50,6,250  
+Karnataka,Corn,120,30,8,70,10,350  
+Gujarat,Soybean,90,22,4,55,7,280  
+Tamil Nadu,Sugarcane,110,28,6,65,9,320  
+Rajasthan,Barley,105,27,7,63,9,310  
+Haryana,Millet,85,21,4,52,6,260  
+Uttar Pradesh,Cotton,115,29,6,68,9,330  
+Bihar,Jute,75,18,3,48,5,240  
+West Bengal,Maize,130,32,9,75,11,360  
+Odisha,Groundnut,92,23,4,54,7,270  
+Andhra Pradesh,Chickpea,102,26,5,62,8,305  
+Telangana,Sorghum,98,25,4,59,8,295  
+Kerala,Black Gram,108,27,6,64,9,315  
+Assam,Mustard,89,22,3,53,6,275  
+Chhattisgarh,Lentil,99,24,5,57,7,285  
+Jharkhand,Bajra,120,31,7,72,10,340  
+Goa,Cashew,78,19,3,49,5,255  
+Madhya Pradesh,Tobacco,112,28,6,66,9,325  
+
+
+ 
+

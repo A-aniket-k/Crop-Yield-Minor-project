@@ -1,0 +1,11 @@
+State,District,Crop,Crop_Year,Season,Area,Production,Actual Yield,Predicted Yield
+Uttar Pradesh,Ahmedabad,Cotton,2020,Zaid,90.78,458.5,5.05,4.260999999999998
+Maharashtra,Chennai,Sugarcane,2012,Rabi,95.64,904.57,9.46,14.611199999999988
+Uttar Pradesh,Bhopal,Potato,2015,Rabi,51.91,779.7,15.02,18.964299999999994
+Gujarat,Bhopal,Potato,2013,Kharif,10.31,710.98,68.98,48.424499999999995
+Tamil Nadu,Patna,Rice,2021,Rabi,77.84,976.06,12.54,10.985000000000003
+Karnataka,Bhopal,Corn,2015,Kharif,19.72,697.5,35.39,30.00240000000003
+Madhya Pradesh,Bengaluru,Barley,2021,Rabi,77.49,888.7,11.47,10.439300000000003
+Karnataka,Bengaluru,Sugarcane,2012,Zaid,49.22,343.3,6.97,6.659999999999997
+Punjab,Bengaluru,Sugarcane,2017,Kharif,45.07,328.61,7.29,7.030299999999993
+Tamil Nadu,Lucknow,Groundnut,2024,Zaid,30.64,408.51,13.34,8.370699999999992

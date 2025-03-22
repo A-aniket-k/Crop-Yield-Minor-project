@@ -1,0 +1,50 @@
+State,District,Crop,Crop_Year,Season,Area,Production,Yield
+Maharashtra,Ludhiana,Wheat,2018,Rabi,87.5,792.24,9.05
+West Bengal,Lucknow,Cotton,2022,Kharif,70.76,64.33,0.91
+Madhya Pradesh,Jaipur,Potato,2010,Zaid,16.49,185.46,11.25
+West Bengal,Lucknow,Soybean,2010,Kharif,50.71,269.15,5.31
+Rajasthan,Ludhiana,Wheat,2020,Kharif,96.11,983.29,10.23
+Rajasthan,Chennai,Rice,2012,Zaid,49.6,956.69,19.29
+West Bengal,Patna,Sugarcane,2013,Kharif,85.16,540.35,6.35
+Madhya Pradesh,Pune,Barley,2017,Zaid,59.43,197.28,3.32
+Gujarat,Kolkata,Sugarcane,2016,Rabi,64.74,915.07,14.13
+Gujarat,Lucknow,Sugarcane,2016,Zaid,20.3,563.82,27.78
+Karnataka,Ludhiana,Potato,2014,Kharif,88.71,416.77,4.7
+Maharashtra,Kolkata,Cotton,2018,Rabi,91.29,156.85,1.72
+Uttar Pradesh,Patna,Potato,2015,Rabi,29.05,867.95,29.88
+Uttar Pradesh,Ahmedabad,Cotton,2020,Zaid,90.78,458.5,5.05
+Bihar,Bengaluru,Corn,2016,Zaid,45.2,308.05,6.81
+Bihar,Lucknow,Groundnut,2023,Kharif,97.18,489.25,5.04
+Gujarat,Ludhiana,Sugarcane,2013,Kharif,35.51,577.14,16.25
+Tamil Nadu,Patna,Rice,2021,Rabi,77.84,976.06,12.54
+West Bengal,Bengaluru,Rice,2017,Zaid,35.13,975.64,27.78
+Tamil Nadu,Lucknow,Groundnut,2024,Zaid,30.64,408.51,13.34
+Tamil Nadu,Pune,Groundnut,2021,Rabi,70.33,854.12,12.14
+Madhya Pradesh,Ludhiana,Potato,2017,Kharif,57.68,448.6,7.78
+West Bengal,Ahmedabad,Rice,2020,Rabi,82.11,158.72,1.93
+West Bengal,Bengaluru,Corn,2023,Rabi,92.12,905.9,9.83
+Rajasthan,Lucknow,Wheat,2016,Kharif,46.77,787.8,16.84
+Karnataka,Bengaluru,Sugarcane,2012,Zaid,49.22,343.3,6.97
+Madhya Pradesh,Bengaluru,Barley,2021,Rabi,77.49,888.7,11.47
+Karnataka,Bhopal,Corn,2015,Kharif,19.72,697.5,35.39
+Punjab,Bengaluru,Potato,2024,Rabi,26.55,692.79,26.1
+Rajasthan,Ludhiana,Sugarcane,2021,Zaid,59.69,774.96,12.98
+Gujarat,Bhopal,Groundnut,2021,Kharif,37.88,544.17,14.37
+Punjab,Bengaluru,Sugarcane,2017,Kharif,45.07,328.61,7.29
+Karnataka,Lucknow,Potato,2017,Rabi,43.49,755.46,17.38
+Gujarat,Chennai,Potato,2019,Rabi,62.32,848.28,13.61
+Punjab,Ahmedabad,Mustard,2021,Rabi,48.84,585.9,12.01
+Punjab,Lucknow,Cotton,2020,Zaid,48.23,846.74,17.56
+Tamil Nadu,Chennai,Cotton,2022,Zaid,83.07,292.97,3.53
+Madhya Pradesh,Bhopal,Potato,2012,Kharif,78.52,341.11,4.34
+Tamil Nadu,Ludhiana,Potato,2017,Zaid,23.76,112.25,4.72
+Uttar Pradesh,Jaipur,Rice,2022,Rabi,58.04,173.97,3.0
+Maharashtra,Bhopal,Soybean,2016,Rabi,5.31,367.87,69.29
+Uttar Pradesh,Bengaluru,Rice,2015,Rabi,90.97,534.01,5.87
+Madhya Pradesh,Pune,Groundnut,2010,Zaid,84.22,857.84,10.18
+Gujarat,Lucknow,Soybean,2015,Rabi,26.68,598.81,22.44
+Gujarat,Bhopal,Potato,2013,Kharif,10.31,710.98,68.98
+Maharashtra,Chennai,Sugarcane,2012,Rabi,95.64,904.57,9.46
+Madhya Pradesh,Kolkata,Corn,2018,Rabi,91.73,903.5,9.85
+Uttar Pradesh,Bhopal,Potato,2015,Rabi,51.91,779.7,15.02
+West Bengal,Pune,Wheat,2011,Kharif,45.62,324.78,7.12
